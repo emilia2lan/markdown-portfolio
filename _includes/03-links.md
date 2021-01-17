@@ -1,1 +1,1 @@
-[Emilia Tulan GitHub profile] (https://github.com/emilia2lan)
+[Emilia Tulan GitHub profile](https://github.com/emilia2lan)
